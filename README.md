@@ -1,19 +1,56 @@
-# Welcome to Rohan.K.Solanki's GitHub Repository
+# 👋 Hi, I'm Rohan K Solanki  
 
-Computer Science Enthusiast | 4th-Year Student :-
-I am Rohan Solanki, a passionate Computer Science student currently in my 4th and final year of studies.
-This space serves as a showcase for my coding projects, experiments, and learning journey in the fascinating world of Computer Science.
+🎓 **Final-Year Computer Science & Engineering Student**  
+💡 **Aspiring Data Analyst | Data Enthusiast | Tech Learner**
 
-About Me:-
-🎓 Academic Background: Currently pursuing a Bachelor's degree in Computer Science and Engineering.
-💻 Programming Languages: Proficient in Python, C, and C++; exploring and learning more!
-🌐 Areas of Interest: Web Development,Data Analyst,Data Science  and Machine Learning.
+I am a passionate Computer Science student in my final year, with a strong interest in **Data Analytics, Data Science, and Web Development**.  
+This GitHub profile showcases my projects, learning journey, and hands-on experiments.
 
-Learning Journey
-I'm actively engaged in expanding my knowledge and honing my skills. Follow along as I explore new technologies, tackle coding challenges, and share my insights.
+---
 
-Connect with Me
-🔗 LinkedIn: https://www.linkedin.com/in/rohan-solanki-827402267/
+## 🧑‍💻 About Me
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering**
+- 📊 Interested in **Data Analytics & Data Science**
+- 🌱 Currently learning **Advanced SQL, Power BI & Python for Data Analysis**
+- 🚀 Actively building projects to strengthen my practical skills
 
-Feel free to explore, provide feedback, and join me on this exciting journey in the world of Computer Science and Engineering! 🖥️✨ 
+---
 
+## 🛠️ Skills & Technologies
+
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 📊 Data & Analytics
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📌 Areas of Interest
+- 📈 Data Analytics
+- 🤖 Data Science & Machine Learning
+- 🌍 Web Development
+- 📊 Business Intelligence
+
+---
+
+## 🔗 Connect With Me
+- 💼 **LinkedIn:** [Rohan Solanki](https://www.linkedin.com/in/rohan-solanki-827402267/)
+- 💻 **GitHub:** You’re already here 😄
+
+---
+
+⭐ Feel free to explore my repositories, provide feedback, and connect with me!
