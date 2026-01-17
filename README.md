@@ -49,6 +49,8 @@ This GitHub profile showcases my projects, learning journey, and hands-on experi
 
 ## 🔗 Connect With Me
 - 💼 **LinkedIn:** [Rohan Solanki](https://www.linkedin.com/in/rohan-solanki-827402267/)
+- ## 🌐 Portfolio
+🔗 https://rohansolanki619.github.io/rohan-solanki-potfolio/
 - 💻 **GitHub:** You’re already here 😄
 
 ---
